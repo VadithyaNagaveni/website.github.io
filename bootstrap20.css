@@ -1,0 +1,22 @@
+.bgimg {
+    background-image: url(https://i.pinimg.com/736x/b4/f7/8f/b4f78fbedcde535caf2770da1f6164e7.jpg);
+    height: 100vh;
+    width: 90vw;
+    background-size: cover;
+}
+.layoutcard {
+    background-color:bisque;
+    height: 200px;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.heading {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.paraline {
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
